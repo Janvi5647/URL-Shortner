@@ -1,0 +1,16 @@
+{
+  "name": "url-shortend-project",
+  "version": "1.0.0",
+  "description": "Node.js based URL shortening service",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "URL-Shortner"
+  },
+  "author": "Janvi Kanani",
+  "license": "ISC"
+}
