@@ -1,6 +1,6 @@
 # URL Shortener Project
 
-A Node.js-based URL shortening service.
+A URL shortening service.
 
 ## Getting Started
 
