@@ -12,5 +12,8 @@
     "url": "URL-Shortner"
   },
   "author": "Janvi Kanani",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
