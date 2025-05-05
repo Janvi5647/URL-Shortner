@@ -6,6 +6,8 @@ const app = express();
 app.use(express.static("public"));
 app.use(express.urlencoded({ extended: true }));
 
+app.set()
+
 app.use(router);
 
 const port = 9000;
